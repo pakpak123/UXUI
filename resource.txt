@@ -1,0 +1,39 @@
+ว็ปไซต์ ที่รวบรวม เอา flow UI ของหลากหลาย แอป มารวมไว้ แบบ ครบทุกหน้า ทุก state เลย
+
+เป็นแหล่งข้อมูลที่ดีในการศึกษา UI และได้แนวทาง User Flow จาก แอปแต่ละประเภทด้วยนะคะ 😜 ได้ทั้ง iOS และ Andriod เลย --> https://mobbin.com/browse/ios/apps
+
+https://www.nngroup.com/articles/ten-usability-heuristics/
+
+Tools for faster UI design 
+iOS UI kit  for component UI
+Coolors for creating a palette of colors 
+Behance and Dribble for inspirations
+Contract Checker for checking contrast of text and background 
+Unsplash plugin for beautiful pictures in the Application
+Avatars plugin for profile picture user in the Application
+iOS 15 UI Kit for Figma | Figma Community
+https://www.figma.com/community/file/984106517828363349
+
+
+Create a Palette - Coolors
+https://coolors.co/e0d3de-d8d0c1-cbb8a9-b3b492
+
+
+Search Projects | Photos, videos, logos, illustrations and branding on Behance
+https://www.behance.net/
+
+
+Dribbble - Discover the World’s Top Designers & Creative Professionals
+https://dribbble.com/
+
+
+WCAG - Contrast Checker
+https://contrastchecker.com/
+
+
+Unsplash | Figma Community
+https://www.figma.com/community/plugin/738454987945972471/Unsplash
+
+
+Avatars | Figma Community
+https://www.figma.com/community/plugin/739659977030056719/Avatars
